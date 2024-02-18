@@ -1,0 +1,32 @@
+Freature Name,Feature Name AR,Feature Description AR,Feature Description EN
+Diagnosis,التشخيص,This refers to the identification of breast cancer. It involves assessing various factors and tests to determine whether a growth or abnormality in the breast tissue is cancerous (B (Benign - حميد) or M (Malignant - خبيث)),يشير إلى تحديد سرطان الثدي. يتضمن تقييم عوامل متعددة واختبارات لتحديد ما إذا كان النمو أو الشذوذ في أنسجة الثدي سرطانيًا
+Radius Mean,نصف القطر المتوسط,"Also known as “mean radius,” this feature represents the average distance from the center of a breast mass (tumor) to its outer edge. It provides information about the size of the tumor",يُعرف أيضًا باسم “نصف القطر المتوسط”. يُمثل المسافة المتوسطة من مركز الكتلة الثديية (ورم) إلى حافتها الخارجية. يوفر معلومات حول حجم الورم
+Texture Mean,الملمس المتوسط,Texture refers to variations in pixel intensity within the breast mass. A higher texture mean value indicates greater irregularity or heterogeneity in the tissue,الملمس يشير إلى التباين في كثافة البكسل داخل الكتلة الثديية. قيمة الملمس المتوسطة الأعلى تشير إلى تشوه أو تباين أكبر في الأنسجة
+Perimeter Mean,المحيط المتوسط, The average circumference of the tumor. It provides insights into the tumor’s shape and extent,متوسط محيط الورم. يوفر رؤى حول شكل الورم ومدى انتشاره
+Area Mean,المنطقة المتوسطة,"  ,Represents the average area of the tumor. Larger values indicate larger tumor sizes",يُمثل المنطقة المتوسطة للورم. القيم الأكبر تشير إلى أحجام أكبر للورم
+Smoothness Mean,النعومة المتوسطة, Describes the variation in cell size and shape within the tumor. Smoother textures have lower values,يصف التباين في حجم وشكل الخلايا داخل الورم. النصوص الأكثر نعومة لها قيم أقل
+Compactness Mean,الانضغاط المتوسط, Reflects how closely the tumor cells are packed together. Higher compactness may indicate denser tissue,يعكس مدى اقتراب خلايا الورم من بعضها البعض. القيم الأعلى قد تشير إلى أنسجة أكثر كثافة
+Concavity Mean,التقعر المتوسط, Measures the severity of concave (depressed) areas within the tumor boundary. Higher values suggest more pronounced concavities,يقيس شدة المناطق المقعرة (المنخفضة) داخل حدود الورم. القيم الأعلى تشير إلى تجاويف أكثر وضوحًا
+Concave Points Mean,النقاط المقعرة المتوسطة, Indicates the number of concave regions within the tumor. These points are where the tumor boundary curves inward,تشير إلى عدد المناطق المقعرة داخل الورم. هذه النقاط هي التي ينحني فيها حد الورم
+Symmetry Mean,التماثل المتوسط, Assesses the symmetry of the tumor shape. Deviations from symmetry may be indicative of irregular growth,يقيم تماثل شكل الورم. الانحرافات عن التماثل قد تشير إلى نمو غير منتظم
+Fractal Dimension Mean,البعد الكسوري المتوسط, A mathematical measure of the complexity of the tumor boundary. Higher values indicate more intricate shapes,قياس رياضي لتعقيد حدود الورم. القيم الأعلى تشير إلى أشكال أكثر تعقيدًا
+Radius SE,نصف القطر بحد ذاته, Represents the standard error of the radius. It quantifies the variability of the radius measurements,يُمثل الانحراف المعياري لنصف القطر. يقيس التباين في قياسات النصف القطر
+Texture SE,الملمس بحد ذاته," Similar to radius SE, but for texture. It assesses the variability in texture measurements",مماثل لـ نصف القطر بحد ذاته، ولكن للملمس. يقيس التباين في قياسات الملمس
+Perimeter SE,المحيط ذاته, Standard error of the perimeter. Measures the uncertainty in perimeter estimates,الانحراف المعياري للمحيط. يقيس عدم اليقين في تقديرات المحيط
+Area SE,المنطقة بحد ذاتها, Standard error of the area. Reflects the variability in area measurements,الانحراف المعياري للمنطقة. يعكس التباين في قياسات المنطقة
+Smoothness SE,النعومة بحد ذاتها, Standard error of smoothness. Indicates the uncertainty in smoothness measurements,الانحراف المعياري للنعومة. يشير إلى عدم اليقين في قياسات النعومة
+Compactness SE,الانضغاط بحد ذاته, Standard error of compactness. Measures the variability in compactness values,الانحراف المعياري للانضغاط. يقيس التباين في قيم الانضغاط
+Concavity SE,التقعر بحد ذاته, Standard error of concavity. Reflects the uncertainty in concavity measurements,الانحراف المعياري للتقعر. يعكس عدم اليقين في قياسات التقعر
+Concave Points SE,النقاط المقعرة بحد ذاتها, Standard error of concave points. Quantifies the variability in these points,الانحراف المعياري للنقاط المقعرة. يقيس التباين في هذه النقاط
+Symmetry SE,التماثل في حد ذاته,Standard error of symmetry. Represents the uncertainty in symmetry measurements,الانحراف المعياري للتماثل. يمثل عدم اليقين في قياسات التماثل
+Fractal Dimension SE,البعد الكسوري بحد ذاته,Standard error of fractal dimension. Indicates the variability in fractal dimension values,الانحراف المعياري للبعد الكسوري. يشير إلى التباين في قيم البعد الكسوري
+Radius Worst,نصف القطر أسوأ, Describes the worst (largest) value of the radius. It provides insights into the most significant tumor size,يُمثل القيمة الأسوأ (الأكبر) لنصف القطر. يوفر رؤى حول أكبر حجم للورم
+Texture Worst,الملمس الأسوأ," Similar to radius worst, but for texture. Represents the worst-case texture value",مماثل لـ نصف القطر أسوأ، ولكن للملمس. يُمثل قيمة الملمس الأسوأ
+Perimeter Worst,أسوأ محيط, Worst perimeter value. Reflects the most extensive tumor boundary,أسوأ قيمة للمحيط. يعكس الحدود الأكثر انتشارًا للورم
+Area Worst,المنطقة الأسوأ,"  ,Worst area value. Indicates the largest tumor area",أسوأ قيمة للمنطقة. تشير إلى أكبر منطقة للورم
+Smoothness Worst,النعومة أسوأ,"  ,Worst smoothness value. Describes the most irregular texture",أسوأ قيمة للنعومة. يصف التموج الأكثر عدم انتظامًا
+Compactness Worst,الضغط الأسوأ,"  ,Worst compactness value. Represents the most densely packed tumor cells",أسوأ قيمة للانضغاط. يُمثل الخلايا الورمية الأكثر كثافة
+Concavity Worst,التقعر الأسوأ,"  ,Worst concavity value. Indicates the most pronounced concave regions",أسوأ قيمة للتقعر. يشير إلى أكثر المناطق المقعرة وضوحًا
+Concave Points Worst,النقاط المقعرة الأسوأ,"  ,Worst concave points value. Reflects the highest number of concave points",أسوأ قيمة للنقاط المقعرة. يعكس أعلى عدد من النقاط المقعرة
+Symmetry Worst,أسوأ تناظر, Worst symmetry value. Describes the most irregular tumor shape,يصف أسوأ قيمة للتناظر. شكل الورم الأكثر عدم انتظامًا
+Fractal Dimension Worst,البعد الكسوري الأسوأ,Worst fractal dimension value. Represents the most complex tumor boundary,يُمثل أسوأ قيمة للبعد الكسوري. يمثل الحدود الورمية الأكثر تعقيدًا
